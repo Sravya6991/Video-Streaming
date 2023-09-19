@@ -1,0 +1,14 @@
+[
+    {
+        "id": "bigBucket",
+        "duration": "60 sec",
+        "name": "Big Bucket video",
+        "content_type": "video/mp4" 
+    },
+    {
+        "id": "merlot",
+        "duration": "34 sec",
+        "name": "Merlot grapes video",
+        "content_type": "video/mp4" 
+    }
+]
